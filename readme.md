@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi , I'm AADISH JAIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
- <a href="https://github.com/AadishJain249"><img src=""></a>
-	</p>
+ <a href="https://github.com/AadishJain249"></a></p>
+	
  
  <p align="center"> <img src="https://gpvc.arturio.dev/AadishJain249" alt="candida18" > </p>
 
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
+   
    &emsp;
   <a href="https://www.w3schools.com/w3css/defaulT.asp">
     <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -46,6 +47,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
+ 
+ &emsp;
+   <a href="https://www.w3schools.com/Python/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
+ &emsp;
+   <a href="https://www.w3schools.com/CPP/" target="_blank"> 
+    <img alt="Cpp" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
 </p>
 
 ### 👉 Software & Tools
@@ -64,6 +76,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	  <a href="https://www.instagram.com/__aadishjain?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="LinkedIn"/></a>
+       <a href="https://leetcode.com/AADISH249_/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
 	
 </p>
 
