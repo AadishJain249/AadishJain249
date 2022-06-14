@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aadish Jain
-- 👀 I’m interested in Data Structures and Algorithm and Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Projects related to Front End 
+- 👀 I’m interested in Data Structures and Algorithm ,Web Development
+- 💞️ I’m looking to collaborate on Projects related to Backend
 - 📫 Contact me on my Instagram @__aadishjain
 
 <!---
