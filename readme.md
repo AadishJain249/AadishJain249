@@ -18,10 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🛠️ My Skills
-
 <div align="center">
-<h3>Programming languages</h3>
-<div>
+    <h3>Languages</h3>
 <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -30,33 +28,32 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<div>
 </div>
 
-<div align="center">
-<h3>Software & Tools</h3>
-<div>
- &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-  <!-- &emsp; -->
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="firebase" src="https://img.shields.io/badge/firebase%20-%23F05033.svg?logo=firebase&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="postman" src="https://img.shields.io/badge/postamn%20-%23F05033.svg?logo=postman&logoColor=white"></a>
-  &emsp;
-	&emsp;
-</div>
-<div>
-
-<div align="center>
-<h3>♀️Let's Connect</h3>
-<div>
-	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <div align="center">
+      <h3>Preferred IDE's and tools</h3>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+          alt="git"/>
+      </a>
+      <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+      </a>
+      <a href="https://postman.com" target="_blank"> 
+        <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+      </a>
+      <a href="https://www.npmjs.com" target="_blank">
+       <img src="https://shields.io/badge/npm-CB3837.svg?&color=ff69b4&style=for-the-badge&logo=Jest&logoColor=white" alt="npm">
+      </a>
+  </div>
+   <div align="center">
+  <h3>Connect with me</h3>
+  <div>
+   	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	  <a href="https://www.instagram.com/__aadishjain?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="LinkedIn"/></a>
        <a href="https://leetcode.com/aadishjain__/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
+  </div>
 </div>
-</div>
-<hr>
-<br>
