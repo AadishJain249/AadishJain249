@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### 👉 Software & Tools
- 
+<div align="center">
 <p>
  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -46,11 +46,10 @@ You can click the Preview link to take a look at your changes.
   &emsp;
   <a href="#"><img alt="postman" src="https://img.shields.io/badge/postamn%20-%23F05033.svg?logo=postman&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="MongoDB" src="  https://img.shields.io/badge/mongodb%20-%23F05033.svg?logo=mongodb&logoColor=white
-"></a>
-  &emsp;
+    <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+&emsp;
 </p>
-
+</div>
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
