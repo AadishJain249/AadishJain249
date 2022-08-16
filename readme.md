@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Programming languages
 
   <div align="center">
-    <h3>Languages</h3>
 <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -47,8 +46,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
   <a href="#"><img alt="postman" src="https://img.shields.io/badge/postamn%20-%23F05033.svg?logo=postman&logoColor=white"></a>
   &emsp;
-    <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-&emsp;
+	&emsp;
 </p>
 </div>
 ## 🙋‍♀️ Let's Connect
