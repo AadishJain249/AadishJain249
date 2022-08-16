@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
-  <div align="center">
+<div align="center">
+<h3>Programming languages</h3>
+<div>
 <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -30,10 +30,11 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<div>
 </div>
-<br>
-### 👉 Software & Tools
+
 <div align="center">
+<h3>Software & Tools</h3>
 <div>
  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -49,9 +50,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div>
 
-### 🙋‍♀️Let's Connect
 <div align="center>
-
+<h3>♀️Let's Connect</h3>
 <div>
 	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	  <a href="https://www.instagram.com/__aadishjain?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="LinkedIn"/></a>
@@ -60,5 +60,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 <hr>
 <br>
-### 🐱My Github stats:
-![AadishJain249's github stats](https://github-readme-stats.vercel.app/api?username=AadishJain249&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
