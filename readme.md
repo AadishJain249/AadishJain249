@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 ### 👉 Software & Tools
-<div align="center">
 <p>
  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -48,9 +47,8 @@ You can click the Preview link to take a look at your changes.
   &emsp;
 	&emsp;
 </p>
-</div>
-## 🙋‍♀️ Let's Connect
-<p align="center">
+### 🙋‍♀️ Let's Connect
+<p>
 	<a href="mailto:aadishjain360@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	  <a href="https://www.instagram.com/__aadishjain?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="LinkedIn"/></a>
        <a href="https://leetcode.com/aadishjain__/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
@@ -59,5 +57,5 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-## 🐱My Github stats:
+### 🐱My Github stats:
 ![AadishJain249's github stats](https://github-readme-stats.vercel.app/api?username=AadishJain249&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
