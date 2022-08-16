@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
   <div align="center">
     <h3>Languages</h3>
-	  <a target="_blank" rel="noreferrer"> <img align="left" src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+<a target="_blank" rel="noreferrer"> <img align="left" src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
 " alt="javas" width="40" height="40"/> </a> 
     <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -32,10 +32,7 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-   
-    </a>
-    
-  </div>
+</div>
 
 ### 👉 Software & Tools
  
