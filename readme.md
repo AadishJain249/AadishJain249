@@ -53,3 +53,11 @@ You can click the Preview link to take a look at your changes.
        <a href="https://leetcode.com/aadishjain__/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
   </div>
 </div>
+<p>&nbsp;</p>
+
+<p align="center">
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AadishJain249&theme=react&show_icons=true&hide=stars&count_private=true" />
+  <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=AadishJain249&theme=react" />
+</p>
+<br />
