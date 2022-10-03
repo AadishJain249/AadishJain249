@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
  <a href="https://github.com/AadishJain249"></a></p>
-<p align="center"> <img src="https://gpvc.arturio.dev/AadishJain249" alt="candida18" > </p>
 <br>
 
 <div align="center">
