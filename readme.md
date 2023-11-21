@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
       <a href="https://postman.com" target="_blank"> 
         <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
       </a>
-      <a href="https://www.npmjs.com" target="_blank">
-       <img src="https://shields.io/badge/npm-CB3837.svg?&color=ff69b4&style=for-the-badge&logo=Jest&logoColor=white" alt="npm">
+      <a href="https://eclipse" target="_blank"> 
+        <img  src="https://img.shields.io/badge/eclipse-FF6C37.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="postman"/>
       </a>
   </div>
    <div align="center">
