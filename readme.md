@@ -11,10 +11,11 @@
 
 <!-- Talking about you -->
 ## A bit about me 🙋‍♂️
-- 👯 I’m a final year student pursuing bachelor's degree in Computer Science
+- 👯 I have completed my bachelor's degree in Computer Science.
 - 👀 I’m interested in Data Structures and Algorithm ,Web Development
 - 🌱 &nbsp;**Full Stack Developer**.
 - 💞️ I’m looking to collaborate on Projects related to Backend And FrontEnd
+- 🌱 I am a Full Stack Developer at salescode.ai.
 
 
 ## 🛠️ Languages and Tools
